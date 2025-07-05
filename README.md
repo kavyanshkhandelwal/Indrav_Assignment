@@ -1,16 +1,31 @@
-# indrav_assignment
+# Indrav Assignment – Flutter UI
+Flutter-based UI assignment for Indrav Mobile App Developement Internship. Features a futuristic 3D-themed login and age group selection interface as per the assignment requirements.
 
-A new Flutter project.
+---
+## Screenshots
+![image](https://github.com/user-attachments/assets/5d569023-b98d-4ede-879a-2fe16f0e26b3)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+---
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔒 **Login Page**
+  - Email and password validation
+  - Glassmorphism UI with glowing neon buttons
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 📊 **Age Group Selection Page**
+  - Radio-style options with animated selection
+  - Responsive and accessible UI
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🎨 **Modern Health-Tech Design**
+  - Inspired by futuristic 3D websites
+  - Theme aligned with Indrav’s AI-powered healthcare vision
+
+---
+
+## 🛠️ Tech Stack
+
+- **Flutter** (v3.8+)
+- **Dart**
+- **Lottie** animations
+
