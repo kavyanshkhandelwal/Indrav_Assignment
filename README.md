@@ -3,7 +3,10 @@ Flutter-based UI assignment for Indrav Mobile App Developement Internship. Featu
 
 ---
 ## Screenshots
-![image](https://github.com/user-attachments/assets/5d569023-b98d-4ede-879a-2fe16f0e26b3)
+
+![image](https://github.com/user-attachments/assets/c00817d2-9d3c-4edd-9b54-d1b5bc6978ab)
+
+![image](https://github.com/user-attachments/assets/e0987a04-ba2c-4c60-b1ed-6830b4ee51cf)
 
 
 ---
